@@ -7,7 +7,7 @@ public class SingletonUse{
 		obj.demoLvl(1);
 		obj.demoType("Fire");
 		obj.demoIsCool(true);
-		
+		obj.demoSkill("BlueFlame")
 
 	}
 

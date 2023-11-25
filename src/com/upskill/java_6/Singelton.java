@@ -22,8 +22,8 @@ package com.upskill.java_6;
 	}
 
 
-	//git chnage 
-	//cange for git pull request practice 
+	//git change 
+	//change for git pull request practice 
 	protected static void demoSkill(String Skill){
 	System.out.println("Singleton demo pokemon is cool :]" + Skill);
 
